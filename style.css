@@ -4,7 +4,7 @@
     grid-gap: 10px;
     grid-template-columns: [col] 100px [col] 100px;
     grid-template-rows: [row] auto [row] auto;
-    background-color: #1D334A;
+    background-color: #67595E;
 }    
     .box 
     {
@@ -249,9 +249,9 @@ a:visited
         padding-right: 10px;
         box-sizing: border-box;
         text-align: right;
-        background: #245354;
+        background: #67595E;
         font-size: 20px;
-        color: black;
+        color: rgb(255, 255, 255);
     }
 	
 	.homeQuote
