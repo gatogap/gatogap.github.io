@@ -4,7 +4,7 @@
     grid-gap: 10px;
     grid-template-columns: [col] 100px [col] 100px;
     grid-template-rows: [row] auto [row] auto;
-    background-color: rgb(58, 30, 30);
+    background-color: #67595E;
 }    
     .box 
     {
@@ -249,7 +249,7 @@ a:visited
         padding-right: 10px;
         box-sizing: border-box;
         text-align: right;
-        background: rgb(58, 30, 30);
+        background: #67595E;
         font-size: 20px;
         color: rgb(255, 255, 255);
     }
